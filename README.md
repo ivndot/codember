@@ -1,2 +1,9 @@
--- CODEMBER SOLUTIONS BY ivndot
+                 /\ \                       /\ \
+  ___     ___    \_\ \      __     ___ ___  \ \ \____     __    _ __
+ /'___\  / __`\  /'_` \   /'__`\ /' __` __`\ \ \ '__`\  /'__`\ /\`'__\
+/\ \__/ /\ \L\ \/\ \L\ \ /\  __/ /\ \/\ \/\ \ \ \ \L\ \/\  __/ \ \ \/
+\ \____\\ \____/\ \___,_\\ \____\\ \_\ \_\ \_\ \ \_,__/\ \____\ \ \_\
+ \/____/ \/___/  \/__,_ / \/____/ \/_/\/_/\/_/  \/___/  \/____/  \/_/
+
+## CODEMBER SOLUTIONS BY ivndot
 In this repository you can get all the solutions of the @midudev challange 'codember'
