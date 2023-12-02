@@ -1,0 +1,15 @@
+{
+  "name": "challenge05",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Solution to challenge 05",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ivndot",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
